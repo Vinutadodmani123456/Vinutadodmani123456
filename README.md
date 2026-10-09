@@ -1,131 +1,97 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Vinuta+Doddamani+%F0%9F%91%8B;Aspiring+Web+Developer;Front-End+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JavaScript;Open+to+internships+%26+entry-level+roles" alt="Typing intro" />
 
-<br/>
+# Hi, I'm Vinuta Dodmani 👋
 
-📍 Hubballi, Karnataka, India &nbsp;·&nbsp; 🟢 Open to internships & entry-level opportunities
+### MCA Student | Aspiring Full Stack Development.
 
-<br/>
+## 👩‍💻 Introduction
 
-[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinutadodmani698@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuta-doddamani-b8455b3ba)
-[![LeetCode](https://img.shields.io/badge/LeetCode-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vinuta_Doddamani/)
-[![Projects](https://img.shields.io/badge/Projects-5A189A?style=for-the-badge&logo=github&logoColor=white)](#-projects)
+Hello! I'm Vinuta Dodmani, an MCA student at Chetan Business School, Hubballi, Karnataka.
 
-<img src="https://komarev.com/ghpvc/?username=Vinutadodmani123456&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge" alt="Profile views" />
+I'm passionate about software development, web technologies, and problem-solving. I enjoy learning new technologies, building practical projects, and continuously improving my technical skills.
 
-</div>
+My current focus is on **Full Stack Development, Python Programming, and Machine Learning**.
 
----
+- 🎓 MCA Student at Chetan Business School, Hubballi
+- 💻 Interested in Full Stack and building user friendly web applications.
 
-## 👩‍💻 I'm Vinuta
 
-*Digital craftswoman — front-end developer in the making.*
+## 🛠️ Technical Skills
 
-I build clean, responsive and user-friendly web applications using **HTML, CSS and JavaScript**. I enjoy projects with real-world value, like sustainable tourism and online grocery shopping, and I practise problem solving regularly on LeetCode.
+- **Programming Languages:** HTML,CSS,Python, JavaScript
+- **Frontend:** HTML5, CSS3, React.js
+- **Backend:** Node.js
+- **Database:** MySQL
+- **Tools:** VS Code, Git, GitHub, MySQL Workbench, NetBeans
 
-- 🎯 **Role:** Front-End / Web Developer (fresher)
-- 💻 **Core stack:** HTML5, CSS3, JavaScript
-- 🧠 **Strengths:** UI building, problem solving, UML and system design basics
-- 🌱 **Currently learning:** Advanced JavaScript, Data Structures & Algorithms, React
-- 🤝 **Looking for:** Internships, junior developer roles, collaboration and open-source work
+## 💻 Tech Stack
 
----
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🛠️ Skills
+### Frameworks & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<div align="center">
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="Skills" />
+## 📂 Projects
 
-</div>
+### 1. Automatic Traffic Management System – IoT-Based
 
-| Area | Technologies |
-| :-- | :-- |
-| **Languages** | HTML5, CSS3, JavaScript |
-| **Front-End** | Responsive layouts, forms, DOM manipulation, UI design |
-| **Tools** | Git, GitHub, VS Code |
-| **Concepts** | Authentication flow, UML diagrams, Data Structures & Algorithms (in progress) |
+An IoT-based traffic management system designed to monitor traffic conditions and control traffic signals using IR sensors and Raspberry Pi devices.
 
----
+- Uses IR sensors to detect vehicle presence on the road.
+- Uses Raspberry Pi devices for traffic detection and communication between the central and lane-side units.
+- Implements automatic traffic signal control based on detected vehicle presence.
+- Aims to improve traffic flow and reduce unnecessary waiting time.
+- **Technologies:** Python, Raspberry Pi Zero 2 W, IR Sensors, GPIO, Socket Programming
+- **Tools:** PyCharm
 
-## 🚀 Projects
+### 2. Style Kart – Home Boutique Online Store
+An online shopping platform for a home boutique selling sarees, kurtis, and dress materials.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/Vinutadodmani123456/EcoTravel">EcoTravel</a></h3>
-      <i>Green Tour Planning Portal</i><br/><br/>
-      Promotes <b>sustainable tourism</b>. Explore eco-friendly destinations, view hotels and manage bookings.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML-7B2FF7?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥦 <a href="https://github.com/Vinutadodmani123456/OnlineVegetableMartSystem">FreshMart</a></h3>
-      <i>Online Vegetable Mart System</i><br/><br/>
-      Browse, search and add vegetables to a basket. Includes <b>UML diagrams</b> documenting the design.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML-7B2FF7?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-9D4EDD?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-C77DFF?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/Vinutadodmani123456/final-project-premier-shows">Premier Shows</a></h3>
-      <i>Final Project</i><br/><br/>
-      A show and entertainment themed web project.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML-7B2FF7?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Vinutadodmani123456/authentication">Authentication</a></h3>
-      <i>User login flow</i><br/><br/>
-      A JavaScript project that implements a user authentication flow.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-C77DFF?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🧑‍🎨 <a href="https://github.com/Vinutadodmani123456/my-portfolio-website">My Portfolio Website</a></h3>
-      My personal portfolio showcasing my profile and work.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML-7B2FF7?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- Improves product visibility and simplifies customer ordering.
+- Includes customer and administrator workflows.
+- Supports planned online payment and Cash on Delivery options.
+- **Tech Stack:** HTML, CSS, JavaScript, React.js, Node.js, MySQL
 
----
+### 3. EcoTravel – Green Tour Planning Portal
+A web-based portal for exploring eco-friendly tourist destinations and managing travel information.
 
+- Includes destination, hotel, user, and booking management.
+- **Tech Stack:** Java Servlets, JSP, JDBC, MySQL, Apache Tomcat
+
+## 📈 Currently Learning
+
+- Full Stack Web Development
+- Advanced Python Programming
+- Data Structures and Algorithms
+- Database Design and SQL
+- Machine Learning Fundamentals
+- Git and GitHub
+
+## 🎯 Career Goal
+
+My goal is to become a skilled software developer by strengthening my programming fundamentals, building real-world projects, and continuously learning modern technologies.
+
+I'm eager to collaborate with other developers, explore new opportunities, and contribute to meaningful software projects.
+
+## 📫 Connect With Me
+
+- **Email:** vinutadodmani698@gmail.com
+- **LinkedIn:**https://www.linkedin.com/in/vinuta-doddamani-b8455b3ba
+- **GitHub:** https://github.com/Vinutadodmani123456
 
 ---
 
-## 🧩 Problem Solving
+⭐ **Learn → Build → Practice → Improve**
 
-I practise Data Structures and Algorithms on LeetCode to sharpen logic and coding speed.
-👉 [View my LeetCode profile](https://leetcode.com/u/Vinuta_Doddamani/)
-
----
-
-## 🎯 Goals
-
-- [x] Build and publish a personal portfolio website
-- [x] Create front-end projects with real-world use cases
-- [ ] Learn React and build projects with it
-- [ ] Solve LeetCode problems consistently
-- [ ] Contribute to an open-source project
-- [ ] Maintain a regular GitHub contribution streak
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out for opportunities, collaboration or feedback on my projects.
-
-- 📧 **Email:** [vinutadodmani698@gmail.com](mailto:vinutadodmani698@gmail.com)
-- 💼 **LinkedIn:** [vinuta-doddamani](https://www.linkedin.com/in/vinuta-doddamani-b8455b3ba)
-- 🧩 **LeetCode:** [Vinuta_Doddamani](https://leetcode.com/u/Vinuta_Doddamani/)
-- 📍 **Location:** Hubballi, Karnataka, India
-
-<div align="center">
-
-
-⭐ *Thanks for visiting my profile! If you like my work, consider starring a repository.* ⭐
-
-</div>
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
