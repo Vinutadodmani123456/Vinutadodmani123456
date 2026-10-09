@@ -87,7 +87,7 @@ I'm eager to collaborate with other developers, explore new opportunities, and c
 ## 📫 Connect With Me
 
 - **Email:** vinutadodmani698@gmail.com
-- **LinkedIn:**https://www.linkedin.com/in/vinuta-doddamani-b8455b3ba
+- **LinkedIn:** https://www.linkedin.com/in/vinuta-doddamani-b8455b3ba
 - **GitHub:** https://github.com/Vinutadodmani123456
 
 ---
