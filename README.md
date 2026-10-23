@@ -3,7 +3,6 @@
 
 ### MCA Student | Aspiring Full Stack Development.
 
-## 👩‍💻 Introduction
 
 Hello! I'm Vinuta Dodmani, an MCA student at Chetan Business School, Hubballi, Karnataka.
 
